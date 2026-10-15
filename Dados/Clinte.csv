@@ -1,0 +1,501 @@
+﻿ClienteID;Nome;Cidade;Estado
+1;Cliente 1;Ribeirão Preto;SP
+2;Cliente 2;Sorocaba;SP
+3;Cliente 3;Sorocaba;SP
+4;Cliente 4;São Paulo;SP
+5;Cliente 5;Sorocaba;SP
+6;Cliente 6;Campinas;SP
+7;Cliente 7;Campinas;SP
+8;Cliente 8;Ribeirão Preto;SP
+9;Cliente 9;Campinas;SP
+10;Cliente 10;São Paulo;SP
+11;Cliente 11;Sorocaba;SP
+12;Cliente 12;Sorocaba;SP
+13;Cliente 13;Sorocaba;SP
+14;Cliente 14;Santos;SP
+15;Cliente 15;Sorocaba;SP
+16;Cliente 16;Sorocaba;SP
+17;Cliente 17;Santos;SP
+18;Cliente 18;Sorocaba;SP
+19;Cliente 19;Campinas;SP
+20;Cliente 20;Sorocaba;SP
+21;Cliente 21;Sorocaba;SP
+22;Cliente 22;São Paulo;SP
+23;Cliente 23;Sorocaba;SP
+24;Cliente 24;Campinas;SP
+25;Cliente 25;Ribeirão Preto;SP
+26;Cliente 26;Campinas;SP
+27;Cliente 27;Ribeirão Preto;SP
+28;Cliente 28;Ribeirão Preto;SP
+29;Cliente 29;Santos;SP
+30;Cliente 30;Ribeirão Preto;SP
+31;Cliente 31;Sorocaba;SP
+32;Cliente 32;São Paulo;SP
+33;Cliente 33;Santos;SP
+34;Cliente 34;Santos;SP
+35;Cliente 35;Sorocaba;SP
+36;Cliente 36;Ribeirão Preto;SP
+37;Cliente 37;São Paulo;SP
+38;Cliente 38;Santos;SP
+39;Cliente 39;Sorocaba;SP
+40;Cliente 40;Ribeirão Preto;SP
+41;Cliente 41;Sorocaba;SP
+42;Cliente 42;Santos;SP
+43;Cliente 43;Santos;SP
+44;Cliente 44;Ribeirão Preto;SP
+45;Cliente 45;São Paulo;SP
+46;Cliente 46;Campinas;SP
+47;Cliente 47;Ribeirão Preto;SP
+48;Cliente 48;Campinas;SP
+49;Cliente 49;Ribeirão Preto;SP
+50;Cliente 50;Sorocaba;SP
+51;Cliente 51;Ribeirão Preto;SP
+52;Cliente 52;Campinas;SP
+53;Cliente 53;Campinas;SP
+54;Cliente 54;Santos;SP
+55;Cliente 55;Campinas;SP
+56;Cliente 56;Sorocaba;SP
+57;Cliente 57;Campinas;SP
+58;Cliente 58;São Paulo;SP
+59;Cliente 59;Santos;SP
+60;Cliente 60;Ribeirão Preto;SP
+61;Cliente 61;Santos;SP
+62;Cliente 62;Campinas;SP
+63;Cliente 63;São Paulo;SP
+64;Cliente 64;Ribeirão Preto;SP
+65;Cliente 65;Ribeirão Preto;SP
+66;Cliente 66;São Paulo;SP
+67;Cliente 67;Campinas;SP
+68;Cliente 68;Ribeirão Preto;SP
+69;Cliente 69;Sorocaba;SP
+70;Cliente 70;Santos;SP
+71;Cliente 71;Santos;SP
+72;Cliente 72;Santos;SP
+73;Cliente 73;São Paulo;SP
+74;Cliente 74;Campinas;SP
+75;Cliente 75;Ribeirão Preto;SP
+76;Cliente 76;São Paulo;SP
+77;Cliente 77;Campinas;SP
+78;Cliente 78;Ribeirão Preto;SP
+79;Cliente 79;Campinas;SP
+80;Cliente 80;São Paulo;SP
+81;Cliente 81;Campinas;SP
+82;Cliente 82;Campinas;SP
+83;Cliente 83;Sorocaba;SP
+84;Cliente 84;São Paulo;SP
+85;Cliente 85;Santos;SP
+86;Cliente 86;Ribeirão Preto;SP
+87;Cliente 87;São Paulo;SP
+88;Cliente 88;Sorocaba;SP
+89;Cliente 89;Campinas;SP
+90;Cliente 90;Santos;SP
+91;Cliente 91;Ribeirão Preto;SP
+92;Cliente 92;Ribeirão Preto;SP
+93;Cliente 93;Sorocaba;SP
+94;Cliente 94;Campinas;SP
+95;Cliente 95;Campinas;SP
+96;Cliente 96;Sorocaba;SP
+97;Cliente 97;Sorocaba;SP
+98;Cliente 98;Ribeirão Preto;SP
+99;Cliente 99;Campinas;SP
+100;Cliente 100;Sorocaba;SP
+101;Cliente 101;Ribeirão Preto;SP
+102;Cliente 102;Santos;SP
+103;Cliente 103;Ribeirão Preto;SP
+104;Cliente 104;Ribeirão Preto;SP
+105;Cliente 105;Campinas;SP
+106;Cliente 106;Santos;SP
+107;Cliente 107;São Paulo;SP
+108;Cliente 108;Ribeirão Preto;SP
+109;Cliente 109;Ribeirão Preto;SP
+110;Cliente 110;Sorocaba;SP
+111;Cliente 111;São Paulo;SP
+112;Cliente 112;Campinas;SP
+113;Cliente 113;Sorocaba;SP
+114;Cliente 114;Campinas;SP
+115;Cliente 115;São Paulo;SP
+116;Cliente 116;Sorocaba;SP
+117;Cliente 117;Ribeirão Preto;SP
+118;Cliente 118;Ribeirão Preto;SP
+119;Cliente 119;Campinas;SP
+120;Cliente 120;Santos;SP
+121;Cliente 121;Ribeirão Preto;SP
+122;Cliente 122;Ribeirão Preto;SP
+123;Cliente 123;Ribeirão Preto;SP
+124;Cliente 124;Santos;SP
+125;Cliente 125;Santos;SP
+126;Cliente 126;Sorocaba;SP
+127;Cliente 127;Ribeirão Preto;SP
+128;Cliente 128;São Paulo;SP
+129;Cliente 129;Santos;SP
+130;Cliente 130;Santos;SP
+131;Cliente 131;São Paulo;SP
+132;Cliente 132;Sorocaba;SP
+133;Cliente 133;Santos;SP
+134;Cliente 134;Santos;SP
+135;Cliente 135;Santos;SP
+136;Cliente 136;Campinas;SP
+137;Cliente 137;São Paulo;SP
+138;Cliente 138;Santos;SP
+139;Cliente 139;São Paulo;SP
+140;Cliente 140;Ribeirão Preto;SP
+141;Cliente 141;Ribeirão Preto;SP
+142;Cliente 142;Ribeirão Preto;SP
+143;Cliente 143;Ribeirão Preto;SP
+144;Cliente 144;Ribeirão Preto;SP
+145;Cliente 145;Campinas;SP
+146;Cliente 146;Sorocaba;SP
+147;Cliente 147;São Paulo;SP
+148;Cliente 148;São Paulo;SP
+149;Cliente 149;São Paulo;SP
+150;Cliente 150;São Paulo;SP
+151;Cliente 151;São Paulo;SP
+152;Cliente 152;Sorocaba;SP
+153;Cliente 153;Campinas;SP
+154;Cliente 154;Sorocaba;SP
+155;Cliente 155;Sorocaba;SP
+156;Cliente 156;Campinas;SP
+157;Cliente 157;Ribeirão Preto;SP
+158;Cliente 158;Ribeirão Preto;SP
+159;Cliente 159;São Paulo;SP
+160;Cliente 160;Campinas;SP
+161;Cliente 161;Santos;SP
+162;Cliente 162;Sorocaba;SP
+163;Cliente 163;Sorocaba;SP
+164;Cliente 164;Santos;SP
+165;Cliente 165;Sorocaba;SP
+166;Cliente 166;São Paulo;SP
+167;Cliente 167;Ribeirão Preto;SP
+168;Cliente 168;Ribeirão Preto;SP
+169;Cliente 169;Campinas;SP
+170;Cliente 170;Ribeirão Preto;SP
+171;Cliente 171;São Paulo;SP
+172;Cliente 172;Santos;SP
+173;Cliente 173;Ribeirão Preto;SP
+174;Cliente 174;Santos;SP
+175;Cliente 175;Campinas;SP
+176;Cliente 176;São Paulo;SP
+177;Cliente 177;Santos;SP
+178;Cliente 178;Sorocaba;SP
+179;Cliente 179;Sorocaba;SP
+180;Cliente 180;Ribeirão Preto;SP
+181;Cliente 181;São Paulo;SP
+182;Cliente 182;Sorocaba;SP
+183;Cliente 183;Campinas;SP
+184;Cliente 184;Sorocaba;SP
+185;Cliente 185;Ribeirão Preto;SP
+186;Cliente 186;São Paulo;SP
+187;Cliente 187;Campinas;SP
+188;Cliente 188;Santos;SP
+189;Cliente 189;Ribeirão Preto;SP
+190;Cliente 190;Santos;SP
+191;Cliente 191;São Paulo;SP
+192;Cliente 192;Ribeirão Preto;SP
+193;Cliente 193;Campinas;SP
+194;Cliente 194;Ribeirão Preto;SP
+195;Cliente 195;Sorocaba;SP
+196;Cliente 196;Sorocaba;SP
+197;Cliente 197;Sorocaba;SP
+198;Cliente 198;Campinas;SP
+199;Cliente 199;Sorocaba;SP
+200;Cliente 200;Campinas;SP
+201;Cliente 201;Ribeirão Preto;SP
+202;Cliente 202;Ribeirão Preto;SP
+203;Cliente 203;Ribeirão Preto;SP
+204;Cliente 204;Sorocaba;SP
+205;Cliente 205;Ribeirão Preto;SP
+206;Cliente 206;Sorocaba;SP
+207;Cliente 207;Campinas;SP
+208;Cliente 208;Ribeirão Preto;SP
+209;Cliente 209;Ribeirão Preto;SP
+210;Cliente 210;Sorocaba;SP
+211;Cliente 211;Santos;SP
+212;Cliente 212;Sorocaba;SP
+213;Cliente 213;São Paulo;SP
+214;Cliente 214;Santos;SP
+215;Cliente 215;Ribeirão Preto;SP
+216;Cliente 216;Ribeirão Preto;SP
+217;Cliente 217;Santos;SP
+218;Cliente 218;São Paulo;SP
+219;Cliente 219;Sorocaba;SP
+220;Cliente 220;São Paulo;SP
+221;Cliente 221;São Paulo;SP
+222;Cliente 222;Campinas;SP
+223;Cliente 223;Sorocaba;SP
+224;Cliente 224;Sorocaba;SP
+225;Cliente 225;Ribeirão Preto;SP
+226;Cliente 226;Ribeirão Preto;SP
+227;Cliente 227;Campinas;SP
+228;Cliente 228;São Paulo;SP
+229;Cliente 229;Santos;SP
+230;Cliente 230;Sorocaba;SP
+231;Cliente 231;Sorocaba;SP
+232;Cliente 232;Santos;SP
+233;Cliente 233;Ribeirão Preto;SP
+234;Cliente 234;Sorocaba;SP
+235;Cliente 235;Santos;SP
+236;Cliente 236;São Paulo;SP
+237;Cliente 237;Sorocaba;SP
+238;Cliente 238;Ribeirão Preto;SP
+239;Cliente 239;Campinas;SP
+240;Cliente 240;Sorocaba;SP
+241;Cliente 241;Sorocaba;SP
+242;Cliente 242;Santos;SP
+243;Cliente 243;Sorocaba;SP
+244;Cliente 244;Santos;SP
+245;Cliente 245;Santos;SP
+246;Cliente 246;Santos;SP
+247;Cliente 247;Campinas;SP
+248;Cliente 248;São Paulo;SP
+249;Cliente 249;Ribeirão Preto;SP
+250;Cliente 250;Santos;SP
+251;Cliente 251;Campinas;SP
+252;Cliente 252;Campinas;SP
+253;Cliente 253;Campinas;SP
+254;Cliente 254;Ribeirão Preto;SP
+255;Cliente 255;Sorocaba;SP
+256;Cliente 256;Santos;SP
+257;Cliente 257;Campinas;SP
+258;Cliente 258;Campinas;SP
+259;Cliente 259;Sorocaba;SP
+260;Cliente 260;Santos;SP
+261;Cliente 261;Campinas;SP
+262;Cliente 262;Sorocaba;SP
+263;Cliente 263;Santos;SP
+264;Cliente 264;Santos;SP
+265;Cliente 265;Ribeirão Preto;SP
+266;Cliente 266;Sorocaba;SP
+267;Cliente 267;São Paulo;SP
+268;Cliente 268;São Paulo;SP
+269;Cliente 269;Santos;SP
+270;Cliente 270;São Paulo;SP
+271;Cliente 271;Campinas;SP
+272;Cliente 272;São Paulo;SP
+273;Cliente 273;Sorocaba;SP
+274;Cliente 274;Sorocaba;SP
+275;Cliente 275;Campinas;SP
+276;Cliente 276;Santos;SP
+277;Cliente 277;Ribeirão Preto;SP
+278;Cliente 278;Santos;SP
+279;Cliente 279;Santos;SP
+280;Cliente 280;Campinas;SP
+281;Cliente 281;Ribeirão Preto;SP
+282;Cliente 282;São Paulo;SP
+283;Cliente 283;Campinas;SP
+284;Cliente 284;Campinas;SP
+285;Cliente 285;Campinas;SP
+286;Cliente 286;Campinas;SP
+287;Cliente 287;São Paulo;SP
+288;Cliente 288;Sorocaba;SP
+289;Cliente 289;Ribeirão Preto;SP
+290;Cliente 290;Sorocaba;SP
+291;Cliente 291;Campinas;SP
+292;Cliente 292;Ribeirão Preto;SP
+293;Cliente 293;São Paulo;SP
+294;Cliente 294;Campinas;SP
+295;Cliente 295;Ribeirão Preto;SP
+296;Cliente 296;Santos;SP
+297;Cliente 297;São Paulo;SP
+298;Cliente 298;Campinas;SP
+299;Cliente 299;São Paulo;SP
+300;Cliente 300;Sorocaba;SP
+301;Cliente 301;Ribeirão Preto;SP
+302;Cliente 302;São Paulo;SP
+303;Cliente 303;Ribeirão Preto;SP
+304;Cliente 304;Sorocaba;SP
+305;Cliente 305;São Paulo;SP
+306;Cliente 306;Ribeirão Preto;SP
+307;Cliente 307;São Paulo;SP
+308;Cliente 308;Sorocaba;SP
+309;Cliente 309;São Paulo;SP
+310;Cliente 310;Ribeirão Preto;SP
+311;Cliente 311;Campinas;SP
+312;Cliente 312;Ribeirão Preto;SP
+313;Cliente 313;Santos;SP
+314;Cliente 314;São Paulo;SP
+315;Cliente 315;São Paulo;SP
+316;Cliente 316;Ribeirão Preto;SP
+317;Cliente 317;São Paulo;SP
+318;Cliente 318;São Paulo;SP
+319;Cliente 319;São Paulo;SP
+320;Cliente 320;Ribeirão Preto;SP
+321;Cliente 321;São Paulo;SP
+322;Cliente 322;Sorocaba;SP
+323;Cliente 323;São Paulo;SP
+324;Cliente 324;Santos;SP
+325;Cliente 325;Ribeirão Preto;SP
+326;Cliente 326;Ribeirão Preto;SP
+327;Cliente 327;Santos;SP
+328;Cliente 328;São Paulo;SP
+329;Cliente 329;Campinas;SP
+330;Cliente 330;São Paulo;SP
+331;Cliente 331;Sorocaba;SP
+332;Cliente 332;Sorocaba;SP
+333;Cliente 333;Sorocaba;SP
+334;Cliente 334;Santos;SP
+335;Cliente 335;Campinas;SP
+336;Cliente 336;Ribeirão Preto;SP
+337;Cliente 337;São Paulo;SP
+338;Cliente 338;Campinas;SP
+339;Cliente 339;São Paulo;SP
+340;Cliente 340;Ribeirão Preto;SP
+341;Cliente 341;Ribeirão Preto;SP
+342;Cliente 342;Ribeirão Preto;SP
+343;Cliente 343;Ribeirão Preto;SP
+344;Cliente 344;Sorocaba;SP
+345;Cliente 345;Ribeirão Preto;SP
+346;Cliente 346;Sorocaba;SP
+347;Cliente 347;Sorocaba;SP
+348;Cliente 348;Ribeirão Preto;SP
+349;Cliente 349;Sorocaba;SP
+350;Cliente 350;Santos;SP
+351;Cliente 351;Santos;SP
+352;Cliente 352;Santos;SP
+353;Cliente 353;São Paulo;SP
+354;Cliente 354;São Paulo;SP
+355;Cliente 355;Sorocaba;SP
+356;Cliente 356;Campinas;SP
+357;Cliente 357;Sorocaba;SP
+358;Cliente 358;Santos;SP
+359;Cliente 359;Sorocaba;SP
+360;Cliente 360;Campinas;SP
+361;Cliente 361;Sorocaba;SP
+362;Cliente 362;Campinas;SP
+363;Cliente 363;Ribeirão Preto;SP
+364;Cliente 364;Sorocaba;SP
+365;Cliente 365;Ribeirão Preto;SP
+366;Cliente 366;Sorocaba;SP
+367;Cliente 367;Ribeirão Preto;SP
+368;Cliente 368;São Paulo;SP
+369;Cliente 369;Campinas;SP
+370;Cliente 370;Ribeirão Preto;SP
+371;Cliente 371;Campinas;SP
+372;Cliente 372;Campinas;SP
+373;Cliente 373;Ribeirão Preto;SP
+374;Cliente 374;Sorocaba;SP
+375;Cliente 375;Sorocaba;SP
+376;Cliente 376;Sorocaba;SP
+377;Cliente 377;Sorocaba;SP
+378;Cliente 378;São Paulo;SP
+379;Cliente 379;Campinas;SP
+380;Cliente 380;Campinas;SP
+381;Cliente 381;Campinas;SP
+382;Cliente 382;Ribeirão Preto;SP
+383;Cliente 383;São Paulo;SP
+384;Cliente 384;São Paulo;SP
+385;Cliente 385;São Paulo;SP
+386;Cliente 386;Sorocaba;SP
+387;Cliente 387;Santos;SP
+388;Cliente 388;Sorocaba;SP
+389;Cliente 389;Sorocaba;SP
+390;Cliente 390;São Paulo;SP
+391;Cliente 391;Campinas;SP
+392;Cliente 392;Ribeirão Preto;SP
+393;Cliente 393;Sorocaba;SP
+394;Cliente 394;São Paulo;SP
+395;Cliente 395;São Paulo;SP
+396;Cliente 396;São Paulo;SP
+397;Cliente 397;Campinas;SP
+398;Cliente 398;São Paulo;SP
+399;Cliente 399;Ribeirão Preto;SP
+400;Cliente 400;Ribeirão Preto;SP
+401;Cliente 401;Santos;SP
+402;Cliente 402;Ribeirão Preto;SP
+403;Cliente 403;Santos;SP
+404;Cliente 404;Sorocaba;SP
+405;Cliente 405;Campinas;SP
+406;Cliente 406;Campinas;SP
+407;Cliente 407;Campinas;SP
+408;Cliente 408;Santos;SP
+409;Cliente 409;Sorocaba;SP
+410;Cliente 410;Santos;SP
+411;Cliente 411;Ribeirão Preto;SP
+412;Cliente 412;Sorocaba;SP
+413;Cliente 413;São Paulo;SP
+414;Cliente 414;Campinas;SP
+415;Cliente 415;São Paulo;SP
+416;Cliente 416;Sorocaba;SP
+417;Cliente 417;Ribeirão Preto;SP
+418;Cliente 418;Santos;SP
+419;Cliente 419;Sorocaba;SP
+420;Cliente 420;Ribeirão Preto;SP
+421;Cliente 421;Sorocaba;SP
+422;Cliente 422;Sorocaba;SP
+423;Cliente 423;Sorocaba;SP
+424;Cliente 424;Sorocaba;SP
+425;Cliente 425;Campinas;SP
+426;Cliente 426;São Paulo;SP
+427;Cliente 427;Sorocaba;SP
+428;Cliente 428;Sorocaba;SP
+429;Cliente 429;Santos;SP
+430;Cliente 430;Sorocaba;SP
+431;Cliente 431;Santos;SP
+432;Cliente 432;Campinas;SP
+433;Cliente 433;Ribeirão Preto;SP
+434;Cliente 434;Santos;SP
+435;Cliente 435;Santos;SP
+436;Cliente 436;Sorocaba;SP
+437;Cliente 437;Ribeirão Preto;SP
+438;Cliente 438;Campinas;SP
+439;Cliente 439;Santos;SP
+440;Cliente 440;Santos;SP
+441;Cliente 441;Sorocaba;SP
+442;Cliente 442;Santos;SP
+443;Cliente 443;Sorocaba;SP
+444;Cliente 444;São Paulo;SP
+445;Cliente 445;Santos;SP
+446;Cliente 446;Sorocaba;SP
+447;Cliente 447;Santos;SP
+448;Cliente 448;Campinas;SP
+449;Cliente 449;Santos;SP
+450;Cliente 450;Campinas;SP
+451;Cliente 451;São Paulo;SP
+452;Cliente 452;Santos;SP
+453;Cliente 453;São Paulo;SP
+454;Cliente 454;Santos;SP
+455;Cliente 455;Ribeirão Preto;SP
+456;Cliente 456;São Paulo;SP
+457;Cliente 457;São Paulo;SP
+458;Cliente 458;São Paulo;SP
+459;Cliente 459;Campinas;SP
+460;Cliente 460;Ribeirão Preto;SP
+461;Cliente 461;Santos;SP
+462;Cliente 462;Ribeirão Preto;SP
+463;Cliente 463;São Paulo;SP
+464;Cliente 464;São Paulo;SP
+465;Cliente 465;Santos;SP
+466;Cliente 466;Santos;SP
+467;Cliente 467;Campinas;SP
+468;Cliente 468;Ribeirão Preto;SP
+469;Cliente 469;São Paulo;SP
+470;Cliente 470;Campinas;SP
+471;Cliente 471;Campinas;SP
+472;Cliente 472;Campinas;SP
+473;Cliente 473;Campinas;SP
+474;Cliente 474;Sorocaba;SP
+475;Cliente 475;Ribeirão Preto;SP
+476;Cliente 476;Campinas;SP
+477;Cliente 477;Campinas;SP
+478;Cliente 478;São Paulo;SP
+479;Cliente 479;Santos;SP
+480;Cliente 480;Ribeirão Preto;SP
+481;Cliente 481;Ribeirão Preto;SP
+482;Cliente 482;São Paulo;SP
+483;Cliente 483;São Paulo;SP
+484;Cliente 484;Sorocaba;SP
+485;Cliente 485;Sorocaba;SP
+486;Cliente 486;São Paulo;SP
+487;Cliente 487;Campinas;SP
+488;Cliente 488;Campinas;SP
+489;Cliente 489;Santos;SP
+490;Cliente 490;Santos;SP
+491;Cliente 491;Ribeirão Preto;SP
+492;Cliente 492;São Paulo;SP
+493;Cliente 493;Ribeirão Preto;SP
+494;Cliente 494;São Paulo;SP
+495;Cliente 495;Sorocaba;SP
+496;Cliente 496;Campinas;SP
+497;Cliente 497;São Paulo;SP
+498;Cliente 498;Campinas;SP
+499;Cliente 499;Campinas;SP
+500;Cliente 500;Sorocaba;SP
